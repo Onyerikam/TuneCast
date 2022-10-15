@@ -1,0 +1,1 @@
+class NewReleases1ItemModel { }
